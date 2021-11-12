@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Pod-FEM/static/css/main.a2c8be85.chunk.css",
+    "main.js": "/Pod-FEM/static/js/main.b16889fc.chunk.js",
+    "main.js.map": "/Pod-FEM/static/js/main.b16889fc.chunk.js.map",
+    "runtime-main.js": "/Pod-FEM/static/js/runtime-main.0cd050ae.js",
+    "runtime-main.js.map": "/Pod-FEM/static/js/runtime-main.0cd050ae.js.map",
+    "static/js/2.b4833ec1.chunk.js": "/Pod-FEM/static/js/2.b4833ec1.chunk.js",
+    "static/js/2.b4833ec1.chunk.js.map": "/Pod-FEM/static/js/2.b4833ec1.chunk.js.map",
+    "index.html": "/Pod-FEM/index.html",
+    "static/css/main.a2c8be85.chunk.css.map": "/Pod-FEM/static/css/main.a2c8be85.chunk.css.map",
+    "static/js/2.b4833ec1.chunk.js.LICENSE.txt": "/Pod-FEM/static/js/2.b4833ec1.chunk.js.LICENSE.txt",
+    "static/media/apple-podcast.d1854182.svg": "/Pod-FEM/static/media/apple-podcast.d1854182.svg",
+    "static/media/bg-pattern-dots.a2597e7c.svg": "/Pod-FEM/static/media/bg-pattern-dots.a2597e7c.svg",
+    "static/media/google-podcasts.e91a57f8.svg": "/Pod-FEM/static/media/google-podcasts.e91a57f8.svg",
+    "static/media/image-host.1be14356.jpg": "/Pod-FEM/static/media/image-host.1be14356.jpg",
+    "static/media/image-host.2b35f907.jpg": "/Pod-FEM/static/media/image-host.2b35f907.jpg",
+    "static/media/image-host.e299d8b5.jpg": "/Pod-FEM/static/media/image-host.e299d8b5.jpg",
+    "static/media/logo.f47677a6.svg": "/Pod-FEM/static/media/logo.f47677a6.svg",
+    "static/media/pocket-casts.8beb87ad.svg": "/Pod-FEM/static/media/pocket-casts.8beb87ad.svg",
+    "static/media/spotify.6f8222bb.svg": "/Pod-FEM/static/media/spotify.6f8222bb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0cd050ae.js",
+    "static/js/2.b4833ec1.chunk.js",
+    "static/css/main.a2c8be85.chunk.css",
+    "static/js/main.b16889fc.chunk.js"
+  ]
+}
